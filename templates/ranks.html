@@ -1,0 +1,14 @@
+<html>
+    <head>
+
+    </head>
+    <body>
+        <ol id="scoreboard">
+        {% for team in team_list %}
+            <li id="{{ team.id }}">
+                <p>{{ team.name }} - {{ team.score }} pts</p>
+            </li>
+        {% endfor %}
+        </ol>
+    </body>
+</html>
