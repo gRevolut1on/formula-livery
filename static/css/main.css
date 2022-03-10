@@ -1,0 +1,61 @@
+#drag-list li{
+    margin: 0 0 5px;
+    text-align: left;
+    padding-left: 9%;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-size: large;
+    list-style: none;
+    border: #CCCCCC solid 1px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px #000000;
+}
+
+.W13{
+    background: linear-gradient(110deg, #00A19C 7.5%, #C6C6C6 7.5%);
+    color: #111111;
+}
+
+.RB18{
+    background: linear-gradient(110deg, #CC1E4A 7.5%, #121F45 7.5%);
+    color: #FFC906;
+}
+
+.F1-75{
+    background: linear-gradient(110deg, #111111 7.5%, #A6051A 7.5%);
+    color: #FFEB00;
+}
+
+.MCL36{
+    background: linear-gradient(110deg, #47C7FC 7.5%, #FF8000 7.5%);
+    color: #000000;
+}
+
+.A522{
+    background: linear-gradient(110deg, #FD4BC7 7.5%, #005BA9 7.5%);
+    color: #FFFFFF;
+}
+
+.AT03{
+    background: linear-gradient(110deg, #00293f 7.5%, #f1f3f4 7.5%);
+    color: #00293f;
+}
+
+.AMR22{
+    background: linear-gradient(110deg, #CEDC00 7.5%, #00594f 7.5%);
+    color: #FFFFFF;
+}
+
+.FW44{
+    background: linear-gradient(110deg, #00A3e0 7.5%, #041e42 7.5%);
+    color: #FFFFFF;
+}
+
+.C42{
+    background: linear-gradient(110deg, #f9f9f8 7.5%, #981e32 7.5%);
+    color: #F9F9F8;
+}
+
+.VF-22{
+    background: linear-gradient(110deg, #f62039 7.5%, #f9f2f2 7.5%);
+    color: #111111;
+}
